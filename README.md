@@ -14,9 +14,10 @@ The dashboard provides visual insights into:
 ## Project Contents
 
 EV-Analysis/
-├── EV ANALYSIS.twb         # Tableau workbook file  s  
-├── data/                   # (Optional) Dataset(s) used in Tableau            
-└── README.md               # Project documentation
+
+├── EV ANALYSIS.twb         
+├── data/                            
+└── README.md              
 
 ## Tools Used
 
